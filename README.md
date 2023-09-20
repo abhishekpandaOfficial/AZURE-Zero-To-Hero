@@ -1,7 +1,5 @@
 # Azure in bulletpoints
 
-[![Quality checks status](https://github.com/undergroundwires/Azure-in-bullet-points/workflows/Quality%20checks/badge.svg)](https://github.com/undergroundwires/Azure-in-bullet-points/actions)
-[![GitHub sponsors](https://undergroundwires.dev/img/badges/donate/flat.svg)](https://undergroundwires.dev/donate?project=Azure-in-bullet-points)
 
 - This repo contains my study notes for different Azure exams.
 - The notes are comprehensive and written with goal of covering all exam areas.
@@ -17,14 +15,6 @@
 - [AZ-304: Microsoft Azure Architect Design](#az-304-microsoft-azure-architect-design)
 - [AZ-400: Designing and Implementing Microsoft DevOps Solutions](#az-400-designing-and-implementing-microsoft-devops-solutions)
 
-## Support
-
-- ⭐️ Simplest way to say thanks is just to it a star 🤩
-- ❤️ To show more support:
-  - ☕️ [buy me a coffee](https://buymeacoffee.com/undergroundwire)
-  - 👏🏿 [sponsor me](https://github.com/sponsors/undergroundwires)
-  - 🎈 [donate using another way](https://undergroundwires.dev/donate)
-- ✨ Contributions of any kind are welcome!
 
 ## Symbols
 
